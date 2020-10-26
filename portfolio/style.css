@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@500&family=Syncopate:wght@400;700&display=swap");
+body {
+  padding-top: 5rem;
+  background: grey;
+}
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+.nav-p {
+  display: inline-block;
+  padding-top: 0.3125rem;
+  padding-bottom: 0.3125rem;
+  margin-right: 1rem;
+  font-size: 1.25rem;
+  line-height: inherit;
+  white-space: nowrap;
+  color: white;
+}
+h1 {
+  font-size: 5vw;
+  font-family: "Syncopate", sans-serif;
+  color: red;
+}
+p {
+  font-size: 2vw;
+  font-family: "Big Shoulders Display", cursive;
+  color: black;
+}
